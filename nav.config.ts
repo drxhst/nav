@@ -11,7 +11,7 @@ const c: IConfig = {
   hashMode: false,
 
   // 是否显示右上角的 Github 图标
-  showGithub: false,
+  showGithub: true,
 
   // 您的网站地址，有利于SEO
   homeUrl: 'https://drxhst.cn',
